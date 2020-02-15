@@ -14,11 +14,11 @@
 *  Java courses at [NIIT](http://www.nniit.ru/):
 November 2017-February 2018
 Nizhny Novgorod,
-Russia
+Russia  <br/>
 *  Refresher courses Agilent EMPro and ADS [BSUIR](http://www.bsuir.by/): 
 November-December 2015 
 Minsk,
-Belarus
+Belarus  <br/>
 *  Lobachevsky State University of Nizhni Novgorod [NNSU](http://www.unn.ru/),
 Faculty of Radiophysics:
 2005-2010
